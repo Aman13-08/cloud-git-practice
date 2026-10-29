@@ -4,3 +4,4 @@ Add footer section to application
 Add Search functionality
 Add Login 
 Enhance logout  functionality
+Enhance search functionality with filters
